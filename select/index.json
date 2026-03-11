@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あいつの心臓 - He's heart",
+  "base_artist": "z²",
+  "createdAt": "2026-03-11T17:55:53.565141Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あいつの心臓",
+      "artist": "z²",
+      "has_synced": false,
+      "path": "select/pl_01_あいつの心臓_z2.txt"
+    }
+  ]
+}
